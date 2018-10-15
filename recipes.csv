@@ -1,0 +1,11 @@
+name,description,done,prep_time
+Tarte coco, C est bon,true,No time
+Tarte banane,C'est bon aussi,false,No time
+tarte,concombre,true,No time
+'The' tarte aux fraises,"Ingrédients : farine,beurre,sucre,jaune d'oeuf,eau,sel,lait,oeuf,farine,sucre,sucre vanillé,fraise (ou plus ;).Verser au milieu de ce ""sable"" le mélange liquide. ...",false,No time
+Tiramisu aux fraises,"Ingrédients : fraise,citron jaune,oeuf,mascarpone,sucre,biscuit à la cuillère.Verser le restant du 'coulis' par dessus. Mettre au frais.Arroser les fraises du jus de citron et de 30 g de sucre. Ecraser les fraises...",false,20 min
+Cake au chocolat,"Ingrédients : chocolat pâtissier,oeuf,sucre en poudre,farine,levure,beurre,poudre d'amande.Faire fondre le chocolat (en morceaux) au bain-marie avec 5 cuillères à soupe d’eau (ou le faire au micro-ondes). Dans un...",true,45 min
+Muffins à la banane,"Ingrédients : banane,sucre blanc,oeuf,bicarbonate,levure,sel,farine,beurre fondu.Ecraser les bananes. Ajouter le sucre et l'oeuf légèrement battu. Ajouter le beurre fondu, puis les ingrédients secs (farine, levure,...",false,30 min
+Rochers à la noix de coco,"Ingrédients : noix de coco rapée,sucre en poudre,farine,oeuf.Préchauffer le four à thermostat 7/8.Mélanger tous les ingrédients dans un saladier. Former des boules de 2 cm de diamètre, puis pincer avec le bout...",false,20 min
+Tarte au courgettes,courgettes,false,No time
+Cake aux lardons,"Ingrédients : farine,gruyère râpé,levure,oeuf,moutarde,beurre fondu,lardons (ou de jambon en dés).Dans un premier récipient, mélanger la farine, la levure et le gruyère râpé. Enfourner et laisser cuire...",false,55 min
